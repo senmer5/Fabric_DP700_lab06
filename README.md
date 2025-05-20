@@ -1,4 +1,3 @@
-# Fabric_DP700_lab06
 # 📊 Microsoft Fabric Lab – Data Analysis Project
 
 ## 📌 Objective
